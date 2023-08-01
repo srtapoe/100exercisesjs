@@ -20,9 +20,9 @@
 - [x] [10 - Volume de uma esfera](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/volumeEsfera.js)
 
 #### Strings
-- [ ] [11 - Concatenar](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/strings/concatenar.js)
-- [ ] [12 - ]()
-- [ ] [13 - ]()
+- [x] [11 - Concatenar](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/strings/concatenar.js)
+- [x] [12 - Mostrar letras separadamente de uma palavra](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/strings/separarString.js)
+- [x] [13 - Substituir A por E](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/strings/substiturAporE.js)
 - [ ] [14 - ]()
 - [ ] [15 - ]()
 
