@@ -19,4 +19,11 @@
 - [x] [09 - Pontos cartesianos](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/pontosCartesianos.js)
 - [x] [10 - Volume de uma esfera](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/volumeEsfera.js)
 
+#### Strings
+- [ ] [11 - Concatenar](https://github.com/srtapoe/100exercisesjs/blob/main/exercicios/strings/concatenar.js)
+- [ ] [12 - ]()
+- [ ] [13 - ]()
+- [ ] [14 - ]()
+- [ ] [15 - ]()
+
 ### NodeJs
